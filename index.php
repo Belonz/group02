@@ -2,8 +2,8 @@
 
 $host = 'mysql';
 $username = 'root';
-$password = 'kittinan';
-$dbname = 'kittinandb';
+$password = '1q2w3e4r';
+$dbname = 'group02db';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
